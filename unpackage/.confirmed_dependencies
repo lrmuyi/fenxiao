@@ -1,0 +1,372 @@
+{
+  "login.html": {
+    "resources": [
+      "css/base.css",
+      "images/login.png",
+      "js/jquery.min.js",
+      "css/loading.css",
+      "css/style.css",
+      "images/password.png",
+      "css/loaders.min.css",
+      "index.html",
+      "sign.html"
+    ],
+    "refer": [
+      "index.html",
+      "sign.html"
+    ]
+  },
+  "index.html": {
+    "resources": [
+      "img/hometit2.jpg",
+      "uploads/t4.jpg",
+      "uploads/t5.jpg",
+      "img/qnav4.png",
+      "img/homenav1.png",
+      "js/mui.min.js",
+      "img/hometit1.jpg",
+      "images/footer003.png",
+      "css/all.css",
+      "img/qnav2.png",
+      "iconfont/iconfont.css",
+      "uploads/t2.jpg",
+      "img/homenav2.png",
+      "img/homenav4.png",
+      "img/hometit3.jpg",
+      "js/swiper/swiper.min.css",
+      "images/footer002.png",
+      "js/rem.js",
+      "images/footer01.png",
+      "js/swiper/swiper.jquery.min.js",
+      "uploads/banner1.jpg",
+      "js/hmt.js",
+      "js/fastclick.js",
+      "js/jquery-1.8.3.min.js",
+      "img/homenav3.png",
+      "uploads/t1.jpg",
+      "images/footer004.png",
+      "img/qnav3.png",
+      "css/mui.min.css",
+      "iconfont/iconfont.woff",
+      "js/global.js",
+      "uploads/t3.jpg",
+      "img/qnav1.png",
+      "assort.html",
+      "shopcar.html",
+      "fx-center.html",
+      "css/base.css",
+      "css/style.css",
+      "self.html",
+      "index-bak.html"
+    ],
+    "refer": [
+      "assort.html",
+      "shopcar.html",
+      "fx-center.html",
+      "self.html",
+      "index-bak.html"
+    ]
+  },
+  "assort.html": {
+    "resources": [
+      "images/classify02.png",
+      "images/classify-ph02.png",
+      "images/classify-ph03.png",
+      "images/serach.png",
+      "images/classify08.png",
+      "images/classify01.png",
+      "images/footer02.png",
+      "images/classify04.png",
+      "images/classify03.png",
+      "images/classify09.png",
+      "images/footer001.png",
+      "images/classify07.png",
+      "images/classify-ph05.png",
+      "images/classify-ph01.png",
+      "images/classify06.png",
+      "images/classify-ph04.png",
+      "images/classify05.png",
+      "shopcar.html",
+      "self.html",
+      "index.html"
+    ],
+    "refer": [
+      "shopcar.html",
+      "self.html",
+      "index.html"
+    ]
+  },
+  "self.html": {
+    "resources": [
+      "images/footer04.png",
+      "images/self-icon01.png",
+      "images/self-icon05.png",
+      "images/self-icon013.png",
+      "images/self-icon011.png",
+      "images/self-icon.png",
+      "images/order-icon04.png",
+      "images/order-icon01.png",
+      "images/self-icon04.png",
+      "images/self-icon012.png",
+      "images/right.png",
+      "images/order-icon03.png",
+      "images/self-icon02.png",
+      "img/touxiang.png",
+      "images/order-icon02.png",
+      "uploads/7.jpg",
+      "orderfour.html",
+      "assort.html",
+      "gobuy.html",
+      "shopcar.html",
+      "images/footer001.png",
+      "datum.html",
+      "index.html",
+      "css/loaders.min.css",
+      "addres.html",
+      "css/base.css",
+      "js/jquery.min.js",
+      "css/style.css",
+      "images/footer002.png",
+      "css/loading.css",
+      "images/footer003.png",
+      "orderthree.html",
+      "login.html",
+      "order.html",
+      "mycollect.html",
+      "balance.html"
+    ],
+    "refer": [
+      "assort.html",
+      "gobuy.html",
+      "shopcar.html",
+      "datum.html",
+      "index.html",
+      "addres.html",
+      "orderthree.html",
+      "login.html",
+      "order.html",
+      "mycollect.html"
+    ]
+  },
+  "shopcar.html": {
+    "resources": [
+      "images/check.png",
+      "self.html",
+      "images/shopcar-icon01.png",
+      "images/footer03.png",
+      "images/shopcar-ph01.png",
+      "assort.html",
+      "images/footer001.png",
+      "images/checke.png",
+      "css/loaders.min.css",
+      "index.html"
+    ],
+    "refer": [
+      "self.html",
+      "assort.html",
+      "index.html"
+    ]
+  },
+  "orderfour.html": {
+    "resources": [
+      "images/left.png"
+    ],
+    "refer": []
+  },
+  "fx-center.html": {
+    "resources": [
+      "css/common.css",
+      "img/jianhao.png",
+      "img/right.png",
+      "css/base1.css",
+      "img/dian.png",
+      "index.html",
+      "shopcar.html"
+    ],
+    "refer": [
+      "index.html",
+      "shopcar.html"
+    ]
+  },
+  "gobuy.html": {
+    "resources": [
+      "images/left.png",
+      "fx-center.html",
+      "images/fxbanner.jpg"
+    ],
+    "refer": [
+      "fx-center.html"
+    ]
+  },
+  "sign.html": {
+    "resources": [
+      "login.html"
+    ],
+    "refer": [
+      "login.html"
+    ]
+  },
+  "namechange.html": {
+    "resources": [
+      "images/a-icon01.png",
+      "css/base.css",
+      "images/left.png",
+      "js/jquery.min.js",
+      "css/loading.css",
+      "css/style.css",
+      "css/loaders.min.css",
+      "datum.html"
+    ],
+    "refer": [
+      "datum.html"
+    ]
+  },
+  "datum.html": {
+    "resources": [
+      "images/left.png",
+      "images/detail-tou.png",
+      "self.html",
+      "namechange.html"
+    ],
+    "refer": [
+      "self.html",
+      "namechange.html"
+    ]
+  },
+  "addres.html": {
+    "resources": [
+      "images/left.png",
+      "go-address.html",
+      "self.html"
+    ],
+    "refer": [
+      "go-address.html",
+      "self.html"
+    ]
+  },
+  "go-address.html": {
+    "resources": [
+      "images/checke.png",
+      "images/check.png",
+      "css/base.css",
+      "images/left.png",
+      "js/jquery.min.js",
+      "css/loading.css",
+      "css/style.css",
+      "css/loaders.min.css",
+      "addres.html"
+    ],
+    "refer": [
+      "addres.html"
+    ]
+  },
+  "index-bak.html": {
+    "resources": [
+      "images/index-ph04.png",
+      "images/index-ph02.png",
+      "images/index-ban03.png",
+      "images/index-ban02.png",
+      "css/swiper.min.css",
+      "js/swiper.min.js",
+      "images/index-03.png",
+      "images/index-ph01.png",
+      "images/index-ban01.png",
+      "css/base.css",
+      "js/jquery.min.js",
+      "css/style.css",
+      "images/footer002.png",
+      "images/footer01.png",
+      "css/loaders.min.css",
+      "images/footer004.png",
+      "css/loading.css",
+      "images/right.png",
+      "images/footer003.png",
+      "js/swiper/swiper.jquery.min.js",
+      "assort.html"
+    ],
+    "refer": [
+      "assort.html"
+    ]
+  },
+  "list.html": {
+    "resources": [
+      "images/shopbar.png",
+      "images/list-ph01.png",
+      "images/list-ph02.png",
+      "images/list-search.png",
+      "js/jaliswall.js",
+      "images/up-red.png",
+      "images/list-ban01.png",
+      "images/left.png"
+    ],
+    "refer": []
+  },
+  "orderthree.html": {
+    "resources": [
+      "self.html"
+    ],
+    "refer": [
+      "self.html"
+    ]
+  },
+  "order.html": {
+    "resources": [
+      "images/classify-ph03.png",
+      "css/base.css",
+      "images/left.png",
+      "js/jquery.min.js",
+      "css/loading.css",
+      "css/style.css",
+      "css/loaders.min.css",
+      "self.html"
+    ],
+    "refer": [
+      "self.html"
+    ]
+  },
+  "mycollect.html": {
+    "resources": [
+      "images/list-ph01.png",
+      "images/list-ph02.png",
+      "js/jaliswall.js",
+      "self.html",
+      "detail.html"
+    ],
+    "refer": [
+      "self.html",
+      "detail.html"
+    ]
+  },
+  "detail.html": {
+    "resources": [
+      "images/detail-left.png",
+      "images/detail-pp03.png",
+      "images/shopbar.png",
+      "images/detail-heart-hei.png",
+      "images/detail-ban02.png",
+      "js/swiper.min.js",
+      "images/detail-tou.png",
+      "images/detail-pp04.png",
+      "images/detail-pp01.png",
+      "images/detail-ban04.png",
+      "images/detail-ban03.png",
+      "images/detail-iocn01.png",
+      "images/detail-you.png",
+      "images/detail-iocn001.png",
+      "images/detail-pp02.png",
+      "images/detail-ban01.png",
+      "images/shopbar-red.png",
+      "css/swiper.min.css",
+      "images/more.png",
+      "mycollect.html"
+    ],
+    "refer": [
+      "mycollect.html"
+    ]
+  },
+  "balance.html": {
+    "resources": [
+      "images/left.png"
+    ]
+  }
+}
